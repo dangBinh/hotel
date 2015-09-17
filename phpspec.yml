@@ -1,0 +1,7 @@
+suites:
+    mycompany_suite:
+      namespace: MyCompany
+      spec_path: app
+      src_path: app
+      spec_prefix: spec
+      
